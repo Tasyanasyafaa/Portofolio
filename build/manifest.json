@@ -1,6 +1,6 @@
 {
   "node_modules/pdfjs-dist/build/pdf.mjs": {
-    "file": "assets/pdf-75a807f7.js",
+    "file": "assets/pdf-2a871509.js",
     "imports": [
       "resources/js/app.js"
     ],
@@ -15,7 +15,7 @@
     "assets": [
       "assets/pdf.worker.min-1baa1844.mjs"
     ],
-    "file": "assets/pdf.worker.min-ca36e1a6.js",
+    "file": "assets/pdf.worker.min-03cda58c.js",
     "isDynamicEntry": true,
     "src": "node_modules/pdfjs-dist/build/pdf.worker.min.mjs?url"
   },
@@ -24,7 +24,7 @@
       "node_modules/pdfjs-dist/build/pdf.mjs",
       "node_modules/pdfjs-dist/build/pdf.worker.min.mjs?url"
     ],
-    "file": "assets/app-af413ae8.js",
+    "file": "assets/app-a5333597.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
